@@ -26,7 +26,7 @@ seaborn>=0.11.0
 ipython  # interactive notebook
 psutil  # system utilization
 thop  # FLOPs computation
-streamlit
+streamlit==1.29.0
 wget
 ffmpeg-python
 pyngrok

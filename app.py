@@ -145,6 +145,7 @@ def download_model(url):
 def main():
     # global variables
     global model, confidence, cfg_model_path
+
     st.title("🥛 Remilk Go: Various of milk Types Detection for Automated Smart Retail Monitoring System 🥛")
     st.sidebar.write("Wellcome to Remilk Go 🥛")
     st.sidebar.write("")
